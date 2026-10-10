@@ -1,0 +1,11 @@
+Machine Learning Introduction
+Machine learning is a subset of Artificial Intelligence that uses data and algorithms to let computers train themselves 
+and solve problems without being explicitly programmed with every single rule.
+
+Key features:
+- Data-Driven Learning
+- Pattern Recognition
+- Process Automation
+- Adaptability
+
+This is the end of Machine learning.
